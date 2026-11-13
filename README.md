@@ -1,11 +1,11 @@
-# NBA Recap Agent
+# 🏀 NBA Recap Agent
 
 Ask an NBA question. The agent looks up the ESPN scoreboard, chooses
 which games to investigate, and uses box scores to explain what stood out.
 
 [Open in Colab](https://colab.research.google.com/github/akashmathur/nba-recap-agent/blob/main/nba_agent.ipynb)
 
-## Example run
+# Example run
 
 **Question:** What was the best NBA game to watch on November 12, 2026, and why?
 
